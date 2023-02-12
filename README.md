@@ -20,4 +20,4 @@ GET/POST
 
 
 You can run the server and test the APIs first from your browser
-by entering  localhost/lamp for example and then try sending request bodies any of these POST APIs. This will send you back the request body you sent and will log out the request body on the server side.
+by entering  localhost/lamp for example, and then try sending request containing a body to any of these POST APIs. This will send you back the request body you sent, and will also log out the request body on the server side.
